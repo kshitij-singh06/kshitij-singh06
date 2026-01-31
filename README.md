@@ -12,12 +12,18 @@
   <a href="mailto:kshitij.tech06@gmail.com">
     <img width="32px" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"/>
   </a>
+ 
+</p>
+
 </div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Fullstack+Developer;API+and+Backend+Focused;AI%2FML+Curious+Engineer;Turning+Ideas+into+Products" />
 </p>
-
+ <p align="center">
+  🌐 <b>Portfolio Website:</b> A curated space highlighting my projects, technical skills, and engineering journey —
+  <a href="https://portfoliopersonal-three.vercel.app/">view portfolio</a>
+   
 ---
 
 ## 🧠 About Me
