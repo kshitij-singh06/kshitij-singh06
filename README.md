@@ -1,17 +1,117 @@
-# 💫 About Me:
-👋 About Me<br><br>Hi! I’m a full-stack developer who enjoys building scalable, end-to-end web applications — from intuitive user interfaces to robust backend systems — with a growing interest in applying AI/ML where it adds real value.<br><br>🔭 I’m currently working on full-stack projects, APIs, and data-driven web applications<br>👯 I’m looking to collaborate on full-stack products, open-source projects, and AI-powered web apps<br>🤝 I’m looking for help with system design, backend scalability, and production deployments<br>🌱 I’m currently learning advanced full-stack architecture, cloud basics, and practical AI/ML integration<br>💬 Ask me about React, Node.js, Express, databases, APIs, or integrating ML into web apps<br>⚡ Fun fact: I like turning ideas into working products and polishing them for real users
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=KSHITIJ%20SINGH&fontSize=70&desc=Engineering%20Scalable%20Web%20Applications&descSize=20&descAlignY=62&animation=fadeIn" />
 
+<div align="center">
+  <a href="https://linkedin.com/in/kshitij-singh-98068a34a">
+    <img width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://portfoliopersonal-three.vercel.app/">
+    <img width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:kshitij.tech06@gmail.com">
+    <img width="32px" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"/>
+  </a>
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitij-singh-98068a34a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kshitij.tech06@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kshitij-singh06&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kshitij-singh06&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij-singh06&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Fullstack+Developer;API+and+Backend+Focused;AI%2FML+Curious+Engineer;Turning+Ideas+into+Products" />
+</p>
 
 ---
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=kshitij-singh06)
 
+## 🧠 About Me
+
+Hi! I’m a **full-stack developer** who enjoys building **scalable, end-to-end web applications** — from intuitive UIs to robust backend systems — with a growing interest in **AI/ML where it adds real value**.
+
+- 🔭 Working on full-stack apps, APIs, and data-driven platforms  
+- 👯 Open to collaborating on full-stack & open-source projects  
+- 🤝 Exploring **system design, scalability & production deployments**  
+- 🌱 Learning cloud fundamentals & practical AI/ML integration  
+- 💬 Ask me about **React, Node.js, Express, databases & APIs**  
+- ⚡ Fun fact: I love polishing products until they feel *right* for users  
+
+---
+
+## ⚡ Core Technologies
+
+### 🔧 Languages & Frameworks
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="48"/><br><b>JavaScript</b></td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48"/><br><b>TypeScript</b></td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="48"/><br><b>Python</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48"/><br><b>C++</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="48"/><br><b>C</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=r" width="48"/><br><b>R</b></td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br><b>Node.js</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express" width="48"/><br><b>Express</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="48"/><br><b>React</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=flask" width="48"/><br><b>Flask</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ejs" width="48"/><br><b>EJS</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vite" width="48"/><br><b>Vite</b></td>
+</tr>
+</table>
+</div>
+
+---
+
+### 🎨 Frontend & Styling
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,figma" />
+</div>
+
+---
+
+### 🛢 Databases & Cloud
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,supabase,aws,vercel,netlify" />
+</div>
+
+---
+
+### 🤖 AI / ML Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+<br>
+NumPy • Pandas • Matplotlib • Scikit-Learn • Keras • SciPy
+</div>
+
+---
+
+### 🛠 Dev Tools & Workflow
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,githubactions,docker,postman,linux,bash,vscode" />
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kshitij-singh06&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=kshitij-singh06&theme=dark&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kshitij-singh06&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=🚀+Always+learning+and+building;💡+Love+clean+architecture;🤝+Open+to+collaboration" />
+</p>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=kshitij-singh06&style=for-the-badge&color=6A5ACD"/>
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&text=Let's%20Connect!&fontSize=24&fontAlignY=80" width="100%"/>
