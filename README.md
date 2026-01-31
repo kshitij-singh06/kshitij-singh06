@@ -101,7 +101,7 @@ NumPy • Pandas • Matplotlib • Scikit-Learn • Keras • SciPy
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kshitij-singh06&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=kshitij-singh06&theme=dark&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kshitij-singh06&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kshitij-singh06&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook)
 
 </div>
 
